@@ -2,4 +2,4 @@
 
 My personal grimoire of useful code snippets.
 
-- [git](git/README.md)
+- [git snippets](git#git-snippets)
